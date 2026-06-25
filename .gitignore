@@ -29,6 +29,10 @@ htmlcov/
 # Agent guidance (local only)
 CLAUDE.md
 
+# Downloaded model asset (cached, not tracked) and telemetry output
+app/assets/*.task
+telemetry.jsonl
+
 # Editors / OS
 .vscode/
 .idea/
